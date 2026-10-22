@@ -564,10 +564,4 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 
 ---
 
-## ⭐ Support the Project  
 
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
